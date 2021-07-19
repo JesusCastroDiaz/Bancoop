@@ -1,0 +1,287 @@
+*{		margin: 0;
+		padding: 0;
+		box-sizing:border-box;
+		}
+
+
+
+ /*html{height: 100%;}*/
+
+body{	background: #E6EAE5;
+		color: #110F0F;
+		font-family: 'Josefin Sans', sans-serif;
+		min-height: 100%;
+		width: 100% ;
+		}
+                               /*LINEA 1  HEADER*/
+.header{ width: 1345px;
+		margin-left: auto;
+		margin-right: auto;
+		background: #E6EAE5;
+		color: #37A908;
+		padding: 5px;
+		}
+
+		.header a{
+			text-decoration: none;
+			color: #37A908;
+			}
+		.header ul, label, input {display: inline; }
+		.header label {margin-left: 200px; }
+		.nav0 {width: 1345px;
+				padding-left: 250px;
+				}
+		.nav0 li {display: inline;
+				margin-right: 30px;}
+
+		input{	border-radius: 10px;
+				border: none;
+				background:#77B65D ;
+				height: 22px;
+				color: #F6F9F5 ;
+				font-family: 'Josefin Sans', sans-serif;
+				padding: 10px;
+				}
+
+
+	
+                                 /*LINEA 2 MENU 2 */	
+
+
+
+.cinta1{height: 50px;
+		width: 1345px;
+		margin-left: auto;
+		margin-right: auto;
+		}
+
+.cinta001{margin-left: auto;
+		margin-right: auto;
+		width: 1345px;
+		height: 50px;
+
+		}	
+
+.imglogo{margin-top:100px;
+		margin-left: 76%;
+		position: absolute;
+		transform: rotate(-90deg);
+		}
+
+.imagen30000{width: 1345px;
+			margin-left: auto;
+			margin-right: auto;
+			}
+
+.cintalogo{	width: 1345px;
+			margin-left: auto;
+			margin-right: auto;
+			}	
+
+
+.log1{	position: absolute;
+		width:120px;
+		height: 47px;}
+
+
+.imgfamilia2{
+		width: 100%;
+		height: 420px;
+		}
+
+.menu2{position: absolute;
+		width: 1345px;
+		height: 50px;
+		font-family: 'Josefin Sans', sans-serif;
+		color: white;
+		font-size: 15px;
+		margin-top: 18px;
+		margin-left: auto;
+		margin-right: auto;
+		}
+
+
+.nav1 li, p {display: inline;margin-right: 5px;}
+.nav2 li, p {display: inline;}
+.menu2 ul{display: inline;}
+
+.nav1 a, .nav2 a{text-decoration: none;
+				color: white;
+				}	
+
+.nav1{
+	padding-left: 250px;
+	width: 1345px;
+		}
+.nav2{	margin-left: 280px;	}
+.li6{margin-right: 15px;}
+
+.cinta2{margin-left: auto;
+		margin-right: auto;
+		position: relative;
+		height: 430px;
+		width: 1345px;
+		/*min-width:100%;*/}
+
+
+
+					/*LINEA 3 MENU NUESTROS SERVICIOS BARNER 1 BARNER2  */
+
+.banner1{
+		margin-top: 50px;
+		text-align: center;
+		}
+
+.banner2 a{ text-decoration: none;
+			color: #37A908;
+			}
+
+.banner2{
+		list-style: none;
+		margin-top: 30px;
+		text-align: center;
+		}
+
+
+.b2img1, .b2img2 , .b2img3 , .b2img4 , .b2img5 {
+				display: inline-block;
+				align-content: center;
+				margin-left: 100px;
+				}
+.tarje, .simu, .presta, .cuen, .paga{
+ 				background: #EEF0ED ;
+ 				border-radius: 30px;
+	 			padding: 7px;
+				}
+
+.banner2 img{
+			width: 90px;
+			height: 90px;
+			margin-bottom: 30px;
+			}
+
+.banner2 li:hover{
+			background: #7FDC60;
+			}
+
+
+                /*   LINEA 3 ESTO ES DE TU INTERES BARNER 3 */
+
+.banner3{
+		width: 1345px;
+		margin-top: 30px;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+		}
+
+.banner4{
+		margin-top: 20px;
+		text-align: center;
+		}
+
+.banner4 div{
+			display: inline-block;
+			/*border-style:solid ;*/
+			border-color: green;
+			text-align: justify;
+			width: 316px;
+			height: 400px;
+			margin: 40px;
+			box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.1);
+			}
+
+.banner4 a{text-decoration: none;
+			color: #255A0E;
+			}
+
+.b4t1, .b4t3, .b4t5{
+			padding-left: 20px;
+			padding-top: 40px;
+			margin-bottom: 25px;
+			}
+
+.b4t2, .b4t4, .b4t6{
+			padding-left: 20px;
+			padding-right: 30px;
+			}
+
+
+
+								/*LINEA 4 MENU  CHAT SERVICIO AL CLIENTE ENCUENTRANOS BANNER5 */
+
+
+
+.banner5 a{text-decoration: none;
+		color: #255A0E;
+		}	
+
+		.banner5{
+	list-style: none;
+	margin-top: 50px;
+	text-align: center;
+	}
+
+
+.banner5 img{
+	width: 90px;
+	height: 90px;
+	margin-bottom: 30px;
+	}	
+
+.b5img1, .b5img2 , .b5img3  {
+	display: inline-block;
+	align-content: center;
+	margin-left: 100px;
+	}
+
+.chat, .encu, .queja{
+ 	background: #EEF0ED ;
+ 	border-radius: 30px;
+	 padding: 7px;
+	}
+
+
+.banner5 li:hover{
+background: #7FDC60;}
+
+
+						/*LINEA 6 MENU  FOOTER PIE DE PAGIONA */
+
+
+.pins a{text-decoration: none;
+		color: white;
+		}
+		
+.pie{
+		margin-top: 45px;
+		margin-left: auto;
+		margin-right: auto;
+		background: #195903 ;
+		width: 1345px;
+		height: 150px;
+		color: white;
+		}
+
+.pred img{
+		width: 40px;
+		height: 40px;
+		color: white;		
+		}
+
+.plogo img{
+			width: 220px;
+			margin-top: 20px;
+			}
+
+.plogo, .pins, .pserv, .pred{
+			display: inline-block;
+			margin-right: 90px;
+			margin-left: 20px;
+			}
+
+
+
+
+
+ 

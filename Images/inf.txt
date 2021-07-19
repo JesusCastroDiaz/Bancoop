@@ -1,0 +1,6 @@
+imagesnes de ancho de 2000px
+1920
+
+
+color logos 
+4fad26
